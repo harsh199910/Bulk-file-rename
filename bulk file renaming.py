@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 26 15:49:02 2020
 
-@author: war19
-"""
 
 import os
 
